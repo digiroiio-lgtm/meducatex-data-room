@@ -1,11 +1,9 @@
 # 03 Advisors
 
-**Purpose:** List the active advisors and the guidance they provide.
+**Purpose:** List active advisors, their domain expertise, and engagement style.
 
 **Last updated:** 2026-01-21
 
-- **Clinical Advisor:** Provides input on OR filming compliance and educational content alignment.  
-- **Governance Advisor:** Helps shape oversight councils and escalation procedures.  
-- **Commercial Advisor:** Offers perspective on contracting with health systems.
-
-Each advisor’s role is tied to an active engagement (meetings, feedback loops) and does not overstate influence or outcomes.
+Clinical Advisor: Guides OR filming compliance and surgical education.  
+Governance Advisor: Supports steering council design.  
+Commercial Advisor: Assists with health system negotiations.
