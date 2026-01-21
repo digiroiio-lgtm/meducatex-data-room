@@ -5,14 +5,14 @@
 **Last updated:** 2026-01-21
 
 - **Target raise:** $6.0M SAFE (post-money).  
-- **Structure:** Two tranches ($3.0M + $3.0M), with the second tranche tied to milestone validation so capital is deployed as pilots and governance progress are demonstrably underway.  
-- **Valuation:** Pre-money $34.0M, post-money (fully funded) $40.0M; this range reflects market comparables and independent advisory benchmarks, not promotional narrative.  
+- **Structure:** $3.0M + $3.0M (milestone-based).  
+- **Valuation:** Pre-money $34.0M, post-money (fully funded) $40.0M; informed by market comparables and independent external advisory benchmarks.  
 
-**Milestones (tranche 2 trigger, 18-month horizon):**  
-1. Secure contracts with three hospitals that are approved for pilots.  
-2. Progress five paid pilots generating at least $250k ARR in aggregate.  
-3. Onboard 1,000 surgeons with >80% annual retention, ensuring the platform proves adoption without overstating adoption promises.  
-4. Deliver Platform v1.0 with compliance completed and documented governance controls.
+**Milestones (18-month horizon, tranche 2 trigger):**  
+1. Execute three hospital contracts.  
+2. Close five paid pilots totaling >= $250k ARR (annualized).  
+3. Onboard 1,000 surgeons with 80% annual retention.  
+4. Platform v1.0 live with compliance completed.
 
 **SAFE terms:** Post-money, single valuation cap, no embedded discount; any additional terms are spelled out in the standard agreement to keep diligence efficient.
 
