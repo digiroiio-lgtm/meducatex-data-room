@@ -1,13 +1,12 @@
-# 01 Due Diligence Checklist
+# 01 DD Checklist
 
-**Purpose:** Signal preparedness by listing documents and controls that can be provided under NDA.
+**Purpose:** Present the due diligence assets that can be produced under NDA.
 
 **Last updated:** 2026-01-21
 
-- Completed pilot reports (with redacted data as required)  
-- Governance charters and escalation workflows  
-- Security and compliance posture documents (HIPAA, audit logs)  
-- Financial model narratives and assumptions  
-- Advisory and partnership agreements
+- Pilot reports with redactions  
+- Governance charters and audit workflows  
+- Security posture documentation  
+- Financial narratives and assumptions
 
-Every item can be made available on request once the proper gating is confirmed; we are ready yet disciplined.
+Each item is available upon request once gating is confirmed.
