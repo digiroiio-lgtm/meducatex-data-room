@@ -4,4 +4,4 @@
 
 **Last updated:** 2026-01-21
 
-MeducateX is not a diagnostic AI, a treatment planning tool, or a substitute for clinical judgement. It does not replace existing procedural standards but records observations and awareness signals to support governance teams.
+MeducateX is not a diagnostic AI, a treatment planning tool, or a substitute for clinical judgment. It does not replace existing procedural standards and does not provide medical advice, clinical decision support, or legal determinations. It records observations and awareness signals to support governance teams.
