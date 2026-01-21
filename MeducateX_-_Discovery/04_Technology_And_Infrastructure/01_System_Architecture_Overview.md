@@ -4,4 +4,4 @@
 
 **Last updated:** 2026-01-21
 
-The platform layers content ingestion, metadata tagging, playback, analytics, and governance dashboards. Secure connectors ingest procedural video, anonymize it, and store it in encrypted repositories. Playback and analytics surfaces are delivered to authenticated users with role-based controls and audit logs.
+The pipeline begins with MeducateX Studio capturing multi-camera OR footage, passing it through AI-managed production that filters low-quality feeds and tags critical moments, and pushing the output into the MeduShip field execution layer. Playback surfaces include MeducateX Lite (mobile/web) and VR, while governance dashboards surface risk-ready analytics. CIP (content ingestion pipeline) keeps data encrypted, tagged, and partitioned by institution.

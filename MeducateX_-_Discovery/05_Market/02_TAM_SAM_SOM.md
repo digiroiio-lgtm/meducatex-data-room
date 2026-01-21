@@ -4,4 +4,6 @@
 
 **Last updated:** 2026-01-21
 
-TAM is limited to U.S. and regulated international systems with surgical education and governance programs (approx. 1500 institutions). SAM further narrows to systems evaluating risk-aware education pilots today (roughly 200 prospective partners). SOM represents the first cohorts we can meaningfully support within 18 months, based on current team capacity.
+- **TAM:** $100B+ global medical education and surgical risk enablement market—the infrastructure layer that spans medtech, edtech, insurtech, and AI-aware surgical programs.  
+- **SAM:** $28B+ segmented into high-risk specialties (OB-GYN, general surgery, orthopedics) with existing education and quality governance mandates.  
+- **SOM:** $1-2B reachable through insurer-backed institutional deployments in early markets, with structured pilots demonstrating repeatable adoption in teaching hospitals.

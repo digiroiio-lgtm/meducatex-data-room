@@ -4,4 +4,4 @@
 
 **Last updated:** 2026-01-21
 
-Roadmap buckets cover governance features, analytics maturity, and enablement programs. Dates are directional and dependent on partner approvals. The content carefully avoids delivery promises.
+Roadmap covers the Foundation & U.S. Scale phase (months 0-24) plus the Infrastructure & End Game phase (months 24-36). Foundation activities emphasize pilots with academic hospitals, structured institutional licenses, and the MeduShip field execution platform. Infrastructure phase focuses on platform integration with insurers, multi-specialty scaling, and establishing regionally distributed operating presence alongside academic partnerships. Dates remain contingent on compliance reviews, partner readiness, and funding milestones.

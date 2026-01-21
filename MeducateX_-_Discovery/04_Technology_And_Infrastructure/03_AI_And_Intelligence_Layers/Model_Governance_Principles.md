@@ -4,4 +4,4 @@
 
 **Last updated:** 2026-01-21
 
-We document model inputs, review outputs with clinical and compliance teams, and rerun audits quarterly. Model governance emphasizes transparency, repeatability, and human oversight, staying within non-clinical boundaries.
+Model governance includes quarterly reviews with clinical, legal, and compliance advisors, transparency around inputs/outputs, and incident reporting processes. The governance charter keeps education at the center, prohibits clinical decision outputs, and documents how RISQON remains aggregate-only.

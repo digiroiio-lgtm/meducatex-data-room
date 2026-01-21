@@ -4,4 +4,4 @@
 
 **Last updated:** 2026-01-21
 
-Adjacent offerings include LMS providers, simulation suites, and analytics vendors. MeducateX adds governance-ready reporting, content curation tied to safety signals, and explicit audit trails. The comparison notes that we integrate with, rather than duplicate, these capabilities.
+Adjacent offerings include passive EdTech platforms (GIBLIB, JOMI), hospital MedTech analytics (Caresyntax, Theator), and insurer-facing InsurTech/data analytics firms. MeducateX differentiates by combining multi-angle real OR capture, critical-moment learning, and aggregate risk signals that feed sponsors and insurers before claims materialize. All comparisons remain grounded in observable features; we note that MeducateX supplements rather than replaces each category.
